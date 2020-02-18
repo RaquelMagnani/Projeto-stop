@@ -1,0 +1,15 @@
+*{margin: 0;
+  padding: 0;
+}
+.titulo{
+    background-color: purple;
+    text-align: center;
+}
+.categorias {
+  display : inline-block;
+  width: 20%;
+  border : 1px solid black ;
+  height: 300px
+}
+
+h2 {border : 1px solid black}
